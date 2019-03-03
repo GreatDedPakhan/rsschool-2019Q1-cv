@@ -10,6 +10,6 @@ I think that the knowledge gained at the university is not enough for me and the
 ## Skills:
  **JS, HTML, CSS, C**
 ## Education:
-**Codecademy, HTML Academy**,Gomel State University named after Francis Skorina course two
+**Codecademy, HTML Academy**,Student of the Francisk Skorina Gomel State University course two
 ## English level:
  **A2**
