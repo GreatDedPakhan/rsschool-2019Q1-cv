@@ -47,6 +47,13 @@ a{
 .inf_photo>div{
     width: 600px;
 }
+img{
+    width: 300px;
+    display: block;
+    margin: 0;
+    align-self: flex-end;
+    border-radius: 50%;
+}
 footer{
     padding: 5px 0;
     height: 30px;
